@@ -1,4 +1,4 @@
-name: nginx
+name: redis
 
 on:
   workflow_dispatch:
