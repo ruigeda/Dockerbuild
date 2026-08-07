@@ -1,4 +1,4 @@
-name: redis
+name: postgres:15-alpine
 
 on:
   workflow_dispatch:
