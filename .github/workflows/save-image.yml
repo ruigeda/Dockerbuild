@@ -1,4 +1,4 @@
-name: postgres:15-alpine
+name: eclipse-temurin:21-jdk-slim
 
 on:
   workflow_dispatch:
