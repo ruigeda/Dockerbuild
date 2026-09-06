@@ -1,4 +1,4 @@
-name: eclipse-temurin:21-jdk-slim
+name: openjdk:21-jdk-slim
 
 on:
   workflow_dispatch:
