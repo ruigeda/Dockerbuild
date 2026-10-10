@@ -1,5 +1,4 @@
-name: eclipse-temurin:21-jdk-jammy
-
+name: image_name
 on:
   workflow_dispatch:
     inputs:
